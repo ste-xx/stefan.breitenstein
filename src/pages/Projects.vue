@@ -179,7 +179,7 @@
           NEAT Algorithm for Hus [WIP]
         </template>
         <template #title-icons>
-          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://dreamy-lichterman-7f4985.netlify.app/')"/>
+          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://hus-neat.netlify.app/')"/>
           <font-awesome style="color:var(--header-color)" :icon="['fab', 'github']" size="lg" @click="open('https://github.com/ste-xx/hus')"/>
         </template>
         <template #description>
@@ -204,7 +204,7 @@
           Pathfinding Algorithms
         </template>
         <template #title-icons>
-          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://amazing-wright-416994.netlify.app/')"/>
+          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://pathfinding-kotlin.netlify.app/')"/>
           <font-awesome style="color:var(--header-color)" :icon="['fab', 'github']" size="lg" @click="open('https://github.com/ste-xx/path-algorithm')"/>
         </template>
         <template #description>
@@ -222,7 +222,7 @@
           Stone Color Puzzle
         </template>
         <template #title-icons>
-          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://amazing-wilson-449e80.netlify.app/')"/>
+          <font-awesome style="margin-right: 8px; color:var(--header-color)" :icon="['fas', 'external-link-alt']" size="lg" @click="open('https://stone-puzzle.netlify.app')"/>
           <font-awesome style="color:var(--header-color)" :icon="['fab', 'github']" size="lg" @click="open('https://github.com/ste-xx/stone-color-puzzle')"/>
         </template>
         <template #description>
